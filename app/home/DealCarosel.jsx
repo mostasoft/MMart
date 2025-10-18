@@ -10,9 +10,9 @@ const columnsData = [
     title: "Major furniture savings",
     link: "View all",
     products: [
-      { id: 1, title: "Sunjoy 28 In...", nowPrice: "$138", oldPrice: "$199", buttonType: "+ Add", imageSrc: "/images/furniture1.png" },
-      { id: 2, title: "Patio Chair Set", nowPrice: "$99", oldPrice: "$150", buttonType: "Options", imageSrc: "/images/furniture2.png" },
-      { id: 3, title: "Outdoor Table", nowPrice: "$180", oldPrice: "$250", buttonType: "+ Add", imageSrc: "/images/furniture3.png" },
+      { id: 1, title: "Sunjoy 28 In...", nowPrice: "$138", oldPrice: "$199", buttonType: "+ Add", imageSrc: "/Major furniture savings.jpg" },
+      { id: 2, title: "Patio Chair Set", nowPrice: "$99", oldPrice: "$150", buttonType: "Options", imageSrc: "/Major furniture savings.jpg" },
+      { id: 3, title: "Outdoor Table", nowPrice: "$180", oldPrice: "$250", buttonType: "+ Add", imageSrc: "/Major furniture savings.jpg" },
     ],
   },
   {
@@ -20,9 +20,9 @@ const columnsData = [
     title: "Tools for way, way less",
     link: "View all",
     products: [
-      { id: 4, title: "Cordless Drill", nowPrice: "$49", oldPrice: "$79", buttonType: "+ Add", imageSrc: "/images/tool1.png" },
-      { id: 5, title: "Hammer Set", nowPrice: "$29", oldPrice: "$50", buttonType: "Options", imageSrc: "/images/tool2.png" },
-      { id: 6, title: "Saw", nowPrice: "$39", oldPrice: "$60", buttonType: "+ Add", imageSrc: "/images/tool3.png" },
+      { id: 4, title: "Cordless Drill", nowPrice: "$49", oldPrice: "$79", buttonType: "+ Add", imageSrc: "/Tools for way, way less.jpg" },
+      { id: 5, title: "Hammer Set", nowPrice: "$29", oldPrice: "$50", buttonType: "Options", imageSrc: "/Tools for way, way less.jpg" },
+      { id: 6, title: "Saw", nowPrice: "$39", oldPrice: "$60", buttonType: "+ Add", imageSrc: "/Tools for way, way less.jpg" },
     ],
   },
   {
@@ -30,8 +30,8 @@ const columnsData = [
     title: "Outdoor living essentials",
     link: "View all",
     products: [
-      { id: 7, title: "Umbrella", nowPrice: "$45", oldPrice: "$70", buttonType: "Options", imageSrc: "/images/outdoor1.png" },
-      { id: 8, title: "Grill", nowPrice: "$199", oldPrice: "$250", buttonType: "+ Add", imageSrc: "/images/outdoor2.png" },
+      { id: 7, title: "Umbrella", nowPrice: "$45", oldPrice: "$70", buttonType: "Options", imageSrc: "/Outdoor living essentials (2).jpg" },
+      { id: 8, title: "Grill", nowPrice: "$199", oldPrice: "$250", buttonType: "+ Add", imageSrc: "/Outdoor living essentials (2).jpg" },
     ],
   },
   {
@@ -39,7 +39,7 @@ const columnsData = [
     title: "Outdoor living essentials",
     link: "View all",
     products: [
-      { id: 7, title: "Umbrella", nowPrice: "$45", oldPrice: "$70", buttonType: "Options", imageSrc: "/images/outdoor1.png" },
+      { id: 7, title: "Umbrella", nowPrice: "$45", oldPrice: "$70", buttonType: "Options", imageSrc: "/Outdoor living essentials (2).jpg" },
       { id: 8, title: "Grill", nowPrice: "$199", oldPrice: "$250", buttonType: "+ Add", imageSrc: "/images/outdoor2.png" },
     ],
   },
@@ -48,7 +48,7 @@ const columnsData = [
     title: "Outdoor living essentials",
     link: "View all",
     products: [
-      { id: 7, title: "Umbrella", nowPrice: "$45", oldPrice: "$70", buttonType: "Options", imageSrc: "/images/outdoor1.png" },
+      { id: 7, title: "Umbrella", nowPrice: "$45", oldPrice: "$70", buttonType: "Options", imageSrc: "/Outdoor living essentials.jpg" },
       { id: 8, title: "Grill", nowPrice: "$199", oldPrice: "$250", buttonType: "+ Add", imageSrc: "/images/outdoor2.png" },
     ],
   },

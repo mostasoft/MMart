@@ -8,7 +8,7 @@ const productsData = [
   {
     id: 1,
     title: "HP 67XL High Yield Black Original Ink Cartridge",
-    imageSrc: "/images/hp-ink.png",
+    imageSrc: "/HP 67XL High Yield Black Original Ink Cartridge.jpg",
     currentPrice: "$34.99",
     oldPrice: "$49.99",
     pricePrefix: "Now",
@@ -18,7 +18,7 @@ const productsData = [
   {
     id: 2,
     title: "MacBook Pro 14-inch, Apple M1 Pro Chip",
-    imageSrc: "/images/macbook.png",
+    imageSrc: "/MacBook Pro 14-inch, Apple M1 Pro Chip.jpg",
     currentPrice: "$1999.00",
     pricePrefix: "From",
     isSponsored: false,
@@ -27,7 +27,7 @@ const productsData = [
   {
     id: 3,
     title: "Logitech MX Master 3 Wireless Mouse",
-    imageSrc: "/images/mouse.png",
+    imageSrc: "/Logitech MX Master 3 Wireless Mouse.jpg",
     currentPrice: "$79.99",
     oldPrice: "$99.99",
     pricePrefix: "Now",
@@ -37,7 +37,7 @@ const productsData = [
   {
     id: 4,
     title: "Corsair Vengeance LPX 16GB DDR4 RAM",
-    imageSrc: "/images/ram.png",
+    imageSrc: "/Corsair Vengeance LPX 16GB DDR4 RAM.jpg",
     currentPrice: "$69.99",
     oldPrice: "$89.99",
     pricePrefix: "Now",

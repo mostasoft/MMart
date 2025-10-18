@@ -5,10 +5,10 @@ import { IoHeartOutline, IoChevronBack, IoChevronForward } from "react-icons/io5
 
 // Dummy product data
 const products = [
-  { id: 1, title: "Chaps Men's & Big Men's Long Sleeve Fairsle...", nowPrice: "$22.00", oldPrice: "$25.99", imageSrc: "/images/sweater1.png" },
-  { id: 2, title: "Women's Cozy Knit Sweater", nowPrice: "$28.00", oldPrice: "$35.00", imageSrc: "/images/sweater2.png" },
-  { id: 3, title: "Men's Pullover Hoodie", nowPrice: "$30.00", oldPrice: "$38.00", imageSrc: "/images/sweater3.png" },
-  { id: 4, title: "Kids’ Wool Cardigan", nowPrice: "$18.00", oldPrice: "$22.00", imageSrc: "/images/sweater4.png" },
+  { id: 1, title: "Chaps Men's & Big Men's Long Sleeve Fairsle...", nowPrice: "$22.00", oldPrice: "$25.99", imageSrc: "/Chaps Men's & Big Men's Long Sleeve Fairsle....jpg" },
+  { id: 2, title: "Women's Cozy Knit Sweater", nowPrice: "$28.00", oldPrice: "$35.00", imageSrc: "/Women's Cozy Knit Sweater.jpg" },
+  { id: 3, title: "Men's Pullover Hoodie", nowPrice: "$30.00", oldPrice: "$38.00", imageSrc: "/Men's Pullover Hoodie.jpg" },
+  { id: 4, title: "Kids’ Wool Cardigan", nowPrice: "$18.00", oldPrice: "$22.00", imageSrc: "/Kids’ Wool Cardigan.jpg" },
 ];
 
 export default function CozyStylesRow() {
@@ -68,15 +68,15 @@ export default function CozyStylesRow() {
         <div
           className="relative rounded-xl overflow-hidden flex flex-col justify-center p-6 min-h-[300px] md:min-h-auto mt-4 md:mt-0"
           style={{
-            backgroundImage: "url('/images/sweater-banner.png')",
+            backgroundImage: "url('/Chaps Men's & Big Men's Long Sleeve Fairsle....jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
         >
-          <p className="text-white text-sm mb-2 shadow-sm">
+          <p className="text-black text-sm mb-2 shadow-sm">
             Cardigans to quarter zips
           </p>
-          <h3 className="text-white text-5xl font-extrabold leading-tight mb-4 shadow-sm">
+          <h3 className="text-black p-2 bg-blue-300 text-5xl font-extrabold leading-tight mb-4 shadow-sm">
             Sweaters for the fam
           </h3>
           <button className="bg-white text-gray-900 rounded-full px-6 py-2 font-medium w-max shadow hover:bg-gray-100 transition">

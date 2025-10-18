@@ -7,7 +7,7 @@ import { IoChevronBack, IoChevronForward } from "react-icons/io5";
 const socialTrendsData = [
   {
     id: 1,
-    imageSrc: "/images/outfit1.png",
+    imageSrc: "/No Boundaries Sueded Ankle....jpg",
     creatorHandle: "@joyinstyleblog",
     productTags: [
       {
@@ -20,7 +20,7 @@ const socialTrendsData = [
   },
   {
     id: 2,
-    imageSrc: "/images/teddy.png",
+    imageSrc: "/Skeleton Gummy Bear .jpg",
     creatorHandle: "@sp0kywitch",
     productTags: [
       {
@@ -33,7 +33,20 @@ const socialTrendsData = [
   },
   {
     id: 3,
-    imageSrc: "/images/outfit2.png",
+    imageSrc: "/No Boundaries Barn .jpg",
+    creatorHandle: "@fashionqueen",
+    productTags: [
+      {
+        productName: "No Boundaries Barn Jacket...",
+        price: "$19.97",
+        dotPosition: { top: "65%", left: "25%" },
+        tagPosition: { top: "60%", left: "28%" },
+      },
+    ],
+  },
+  {
+    id: 4,
+    imageSrc: "/No Boundaries Barn .jpg",
     creatorHandle: "@fashionqueen",
     productTags: [
       {
